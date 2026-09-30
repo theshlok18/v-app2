@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SAMAI" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#FF0A0A0F</item>
+        <item name="android:navigationBarColor">#FF0A0A0F</item>
+        <item name="android:windowBackground">#FF0A0A0F</item>
+    </style>
+    <style name="Theme.SAMAI.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#FF0A0A0F</item>
+        <item name="postSplashScreenTheme">@style/Theme.SAMAI</item>
+    </style>
+</resources>

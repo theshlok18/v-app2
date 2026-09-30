@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">S.A.M.</string>
+    <string name="accessibility_service_label">SAM AI Control</string>
+    <string name="accessibility_service_description">Allows SAM to interact with apps on your behalf for automation tasks like opening apps, typing text, and navigating UI elements.</string>
+</resources>
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SAM AI</string>
+    <string name="accessibility_service_label">SAM AI Assistant Control</string>
+    <string name="accessibility_service_description">SAM AI uses the Accessibility Service to interact with apps on your behalf. This allows SAM to tap buttons, type text, scroll, and perform actions you request. SAM only performs actions you explicitly ask for. No data is collected or transmitted without your knowledge.</string>
+</resources>
